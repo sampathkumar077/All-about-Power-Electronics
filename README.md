@@ -1,5 +1,5 @@
 # All-about-Power-Electronics
-Welcome to the All about  Power Electronics!! This repository serves as a comprehensive resource for learning and exploring topics related to power electronics.Inside, you'll find:
+Welcome to All about  Power Electronics!! This repository serves as a comprehensive resource for learning and exploring topics related to power electronics.Inside, you'll find:
 
 Datasheets: Datasheets for various power electronic components such as diodes, transistors, and integrated circuits.
 
